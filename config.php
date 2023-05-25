@@ -1,8 +1,8 @@
 <?php
-$servername  = 'localhost';
-$usernameDB = 'root';
+$servername  = '';
+$usernameDB = '';
 $passwordDB = '';
-$dbname = 'modloffphp';
+$dbname = '';
 
 // Veritabanı bağlantısı oluştur
 $conn = new mysqli($servername, $usernameDB, $passwordDB, $dbname);
