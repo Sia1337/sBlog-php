@@ -41,5 +41,5 @@ It will be added very soon.
     
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Sia1337/sBlog-php/blob/main/LICENSE)
 
